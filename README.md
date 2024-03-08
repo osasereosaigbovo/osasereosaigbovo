@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osasereosaigbovo
-- 👀 I’m interested in Cloud Engineering, Devops
-- 🌱 I’m currently learning Python
+- 👀 I’m interested
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
